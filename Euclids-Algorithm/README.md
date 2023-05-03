@@ -1,0 +1,1 @@
+My first program in my Design of Algorithms class. I only wrote the calculate_gcd() function
